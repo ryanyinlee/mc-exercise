@@ -1,3 +1,11 @@
+Hello world.
+
+“This is what Bob & Carol did on Bob’s computer when working on the first feature”
+
+What’s orange and sounds like a parrot?
+
+A Carrot.
+
 # Why
 
 ## Are
@@ -8,8 +16,7 @@
 
 ##### This
 
-<<<<<<< HEAD
 This is absolute bs 
-=======
+
 ###### AHHHHH
->>>>>>> 00fbe2ce9d43e49656fcea4124b02047455b0ca8
+
